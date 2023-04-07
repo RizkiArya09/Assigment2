@@ -1,0 +1,67 @@
+body{
+    scroll-behavior: smooth;
+    font-family: Cambria;
+}
+
+.h5-category {
+    text-align: center;
+    font-weight: normal;
+    margin: -5px ;
+    padding: -10px;
+}
+
+.h1-title {
+    font-size: 40px;
+    font-family: Verdana black;
+    text-align: center;
+}
+
+.h6-profile {
+    text-align: center;
+    font-weight: normal;
+    margin: -15px;
+}
+
+.h3-daftarisi {
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 360px;
+    margin-top: -5px;
+}
+
+.ol-daftarisi {
+    margin-top: -10px;
+    margin-left: 360px;
+}
+
+a {
+    color: rgb(18, 123, 228);
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+p {
+    font-size: 20px ;
+    line-height: 1.4;
+    margin-left: 360px;
+}
+
+h2 {
+    font-family: Verdana;
+    font-size: 22px;
+    line-height: 1.0;
+    margin-left: 360px;
+}
+
+b {
+    font-size: xx-large;
+}
+
+.img-strawberry {
+    position: relative;
+    width: 300px;
+    margin-left: 360px;
+}
